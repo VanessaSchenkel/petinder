@@ -1,6 +1,5 @@
 package com.pt.petinder.domain;
 
-import com.sun.istack.NotNull;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
